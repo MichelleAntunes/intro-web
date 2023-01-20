@@ -1,6 +1,6 @@
 let city = [
   {
-    img: "/weimar.jpg",
+    img: "./weimar.jpg",
     nameCity: `Weimar`,
     stade: "Turíngia",
     quantity: 65004,
