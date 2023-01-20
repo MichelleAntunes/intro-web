@@ -1,6 +1,6 @@
 let city = [
   {
-    img: "../imgs/weimar.jpg",
+    img: "/weimar.jpg",
     nameCity: `Weimar`,
     stade: "Turíngia",
     quantity: 65004,
@@ -10,7 +10,7 @@ let city = [
     mainParty: "Zwiebelfest and Weimarer Weihnacht",
   },
   {
-    img: "../imgs/hamburgo.jpg",
+    img: "/hamburgo.jpg",
     nameCity: `München(Munique)`,
     stade: "Bayern",
     quantity: 1487708,
@@ -20,7 +20,7 @@ let city = [
     mainParty: "Oktoberfest ",
   },
   {
-    img: "../imgs/hamburgo.jpg",
+    img: "/hamburgo.jpg",
     nameCity: `Hamburgo`,
     stade: "Sachsen",
     quantity: 1835882,
@@ -30,7 +30,7 @@ let city = [
     mainParty: "Internationales Musikfest Hamburg and Stadtpark Open Air ",
   },
   {
-    img: "../imgs/dortmund.jpg",
+    img: "/dortmund.jpg",
     nameCity: `Dortmund`,
     stade: "Nordrhein-Westfalen",
     quantity: 587696,
@@ -40,7 +40,7 @@ let city = [
     mainParty: "Dortmund Christmas Market",
   },
   {
-    img: "../imgs/dresden.jpg",
+    img: "/dresden.jpg",
     nameCity: "Dresden",
     stade: "Saxônia",
     quantity: 554649,
@@ -50,8 +50,7 @@ let city = [
     mainParty: " Striezelmarkt and Bunte Republik Neustadt",
   },
   {
-    img: "../imgs/nürnberg.jpg",
-
+    img: "/nürnberg.jpg",
     nameCity: " Nürnberg",
     stade: "Stade: Bavária",
     quantity: 518365,
